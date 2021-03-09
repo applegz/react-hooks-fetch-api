@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 30vh;
+}
+
+input {
+  margin: 10px;
+}
+
+.container {
+  background: #fafafa;
+  width: 25 vw;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: top;
+  overflow: hidden;
+}
+
+.item {
+  width: 300px;
+  padding: 10px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
