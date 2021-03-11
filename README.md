@@ -35,3 +35,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Possible loading issues
+If the application ran into 403 issues, click this [link](https://cors-anywhere.herokuapp.com/corsdemo) to temperarly unlock the demo of the server.
+
+If you would like to see a demo, click this [link](https://youtu.be/bK-vwuZE9rI) to my youtube demo.
